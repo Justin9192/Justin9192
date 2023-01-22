@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning **Full-Stack Web Development**.
 - 💞️ I’m looking to collaborate on any project that requires assistance in proofreading documentation *until I can contribute code-wise.*
 - 📫 How to reach me? On GitHub is best.
+- 👍 Check out my American Odds Calculator [Here:](https://americanoddscalc.w3spaces.com/)
 
 <!---
 Justin9192/Justin9192 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
